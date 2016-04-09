@@ -1,4 +1,4 @@
-# 登陆认证+三级菜单
+﻿# 登陆认证+三级菜单
 
 项目介绍：
 通过初学Python,对Python自动化开发有了一定的了解，经过几天的学习积累，简单的用Python实现登陆认证+三级菜单项目，
@@ -7,6 +7,7 @@
 项目所用的知识点：sys time模块 列表 字典 函数 （while for 循环） 及if 语句
 
 项目开源地址：https://github.com/jianbosky/login_three_menu
+博客地址：http://www.cnblogs.com/IPYQ/p/5372698.html
 
 项目基本流程：
 登陆部分流程：实现用户登陆判断，判断用户认证是否已被锁定，是则直接退出，并提示用户已锁定；否则判断是否登陆成功，
