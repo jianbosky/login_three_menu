@@ -8,6 +8,9 @@
 
 项目开源地址：https://github.com/jianbosky/login_three_menu
 博客地址：http://www.cnblogs.com/IPYQ/p/5372698.html
+项目文件说明：
+1、lock_user.txt  被锁定用户保存文件
+2、login.py       项目主程序 包含登陆验证与3级菜单功能
 
 项目基本流程：
 
